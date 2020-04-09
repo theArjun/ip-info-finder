@@ -25,7 +25,7 @@ SECRET_KEY = 'qkyw@q+2i45v$-k1-^frj6ls2ai1m3(rs2+%r(^6%-n)#yw7mk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://git.heroku.com/ipinfofinder.git']
+ALLOWED_HOSTS = ['https://ipinfofinder.herokuapp.com/']
 
 
 # Application definition
