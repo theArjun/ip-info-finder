@@ -1,0 +1,1 @@
+web: gunicorn ipdetect.wsgi --log-file -
